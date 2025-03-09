@@ -1,0 +1,1113 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 379,
+      "versionNonce": 1640926054,
+      "isDeleted": false,
+      "id": "OlJ1Kq_r4S-GGpXJPFdc4",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 403.72918366904605,
+      "y": 8.00205018802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 287.9999084472656,
+      "height": 90,
+      "seed": 1254807667,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "MyPsleIStUNokku4cHwtN",
+          "type": "arrow"
+        },
+        {
+          "id": "_kgkUA0ars_QHlSURTLqU",
+          "type": "arrow"
+        },
+        {
+          "id": "h7Nj_Vwg-p4eUUJBeo1ce",
+          "type": "arrow"
+        },
+        {
+          "id": "fLjzS25UDAtTFDlgAR1MH",
+          "type": "arrow"
+        },
+        {
+          "id": "4qL8H9FOBf7DjK5ZcYdXm",
+          "type": "arrow"
+        },
+        {
+          "id": "6ZQsbyfAJv3UsOA5qu-yT",
+          "type": "arrow"
+        },
+        {
+          "id": "6MGCQyr0Ph1xPBG1rWPz2",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170391,
+      "link": null,
+      "locked": false,
+      "fontSize": 36,
+      "fontFamily": 1,
+      "text": "Core components\n",
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Core components\n",
+      "lineHeight": 1.25,
+      "baseline": 77
+    },
+    {
+      "type": "text",
+      "version": 104,
+      "versionNonce": 1354679802,
+      "isDeleted": false,
+      "id": "Qtic5uYEOeTppuk37dVZp",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 309.27605866904605,
+      "y": 378.22470643802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 668.9393920898438,
+      "height": 125,
+      "seed": 1593898301,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "h7Nj_Vwg-p4eUUJBeo1ce",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170391,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Intelligent Resume Processing\nBuild a system that extracts structured information from resumes\nExtract key details: contact info, skills, work experience, education\nDisplay parsed information in a clean, organized format\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Intelligent Resume Processing\nBuild a system that extracts structured information from resumes\nExtract key details: contact info, skills, work experience, education\nDisplay parsed information in a clean, organized format\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 173,
+      "versionNonce": 871640742,
+      "isDeleted": false,
+      "id": "0TKqwUWbBGI9qG40cH2fb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1110.326839919046,
+      "y": 329.39267518802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 727.2793579101562,
+      "height": 125,
+      "seed": 2063724221,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "_kgkUA0ars_QHlSURTLqU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Smart Job-Candidate Matching\nImplement an algorithm that matches job postings with candidate profiles\nIdentify relevant skills and experience from profiles\nGenerate a compatibility score with explanation\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Smart Job-Candidate Matching\nImplement an algorithm that matches job postings with candidate profiles\nIdentify relevant skills and experience from profiles\nGenerate a compatibility score with explanation\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 209,
+      "versionNonce": 1470625466,
+      "isDeleted": false,
+      "id": "1kfeVqTVrrGII7EdQCjKB",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -416.25909758095395,
+      "y": 293.17783143802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 623.159423828125,
+      "height": 125,
+      "seed": 268052541,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "fLjzS25UDAtTFDlgAR1MH",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Applicant Tracking System\nCreate a tool that analyzes resumes against job descriptions\nIdentify missing keywords and suggest improvements\nProvide actionable feedback to improve application performance\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Applicant Tracking System\nCreate a tool that analyzes resumes against job descriptions\nIdentify missing keywords and suggest improvements\nProvide actionable feedback to improve application performance\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 58,
+      "versionNonce": 1342400998,
+      "isDeleted": false,
+      "id": "4qrImBspYbKaIELpJpF5v",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 695.7452213539168,
+      "y": -239.22060606197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 634.51953125,
+      "height": 125,
+      "seed": 1509607549,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "MyPsleIStUNokku4cHwtN",
+          "type": "arrow"
+        },
+        {
+          "id": "fs7OlTFiZjqNNlCEbUZO-",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "User Authentication & Profiles\nRegistration and login flows for both recruiters and job seekers\nProfile creation and management\nRole-based access control\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "User Authentication & Profiles\nRegistration and login flows for both recruiters and job seekers\nProfile creation and management\nRole-based access control\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 93,
+      "versionNonce": 866979706,
+      "isDeleted": false,
+      "id": "mf_r1nc9CGXfJnfG9mdvb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -213.74347258095395,
+      "y": -230.12294981197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 466.31964111328125,
+      "height": 125,
+      "seed": 1104683517,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "4qL8H9FOBf7DjK5ZcYdXm",
+          "type": "arrow"
+        },
+        {
+          "id": "77n_NtXKbQQ_vnH5ufPuH",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Recruiter Dashboard\nJob posting creation and management interface\nCandidate application tracking view\nSimple analytics on job post performance\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Recruiter Dashboard\nJob posting creation and management interface\nCandidate application tracking view\nSimple analytics on job post performance\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "text",
+      "version": 110,
+      "versionNonce": 1963539750,
+      "isDeleted": false,
+      "id": "a8eUl8rfx4hNT2DpzR_1U",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -197.07550383095395,
+      "y": -66.52919981197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 356.59967041015625,
+      "height": 125,
+      "seed": 629504723,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "6MGCQyr0Ph1xPBG1rWPz2",
+          "type": "arrow"
+        },
+        {
+          "id": "FHsy_smVkc-DfGp6g0AGs",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Candidate Portal\nProfessional profile creation\nJob search functionality with filters\nJob application process\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Candidate Portal\nProfessional profile creation\nJob search functionality with filters\nJob application process\n",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "arrow",
+      "version": 792,
+      "versionNonce": 701707581,
+      "isDeleted": false,
+      "id": "MyPsleIStUNokku4cHwtN",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 589.812321034354,
+      "y": -0.2088873119746495,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 103.97240014638328,
+      "height": 108.01697584206525,
+      "seed": 1190321789,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552851030,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.04920263795674299,
+        "gap": 8.2109375
+      },
+      "endBinding": {
+        "elementId": "4qrImBspYbKaIELpJpF5v",
+        "focus": 0.6711105741540158,
+        "gap": 6.3071787243799236
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          103.97240014638328,
+          -108.01697584206525
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 1030,
+      "versionNonce": 1051790493,
+      "isDeleted": false,
+      "id": "_kgkUA0ars_QHlSURTLqU",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 703.8760417900655,
+      "y": 102.5900312586034,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 530.4006702578811,
+      "height": 209.68155017942195,
+      "seed": 1405951005,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.11911521879677295,
+        "gap": 12.146949673753852
+      },
+      "endBinding": {
+        "elementId": "0TKqwUWbBGI9qG40cH2fb",
+        "focus": -0.07337800220252,
+        "gap": 17.12109375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          530.4006702578811,
+          209.68155017942195
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 856,
+      "versionNonce": 1237469533,
+      "isDeleted": false,
+      "id": "h7Nj_Vwg-p4eUUJBeo1ce",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 539.2969655908478,
+      "y": 110.87705018802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 57.75119901526887,
+      "height": 265.5390625,
+      "seed": 1749851133,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.027017050015382422,
+        "gap": 12.875
+      },
+      "endBinding": {
+        "elementId": "Qtic5uYEOeTppuk37dVZp",
+        "focus": -0.5061912500502971,
+        "gap": 1.80859375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -57.75119901526887,
+          265.5390625
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 1044,
+      "versionNonce": 163272221,
+      "isDeleted": false,
+      "id": "fLjzS25UDAtTFDlgAR1MH",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 397.68544911762433,
+      "y": 105.08182350886622,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 525.6565914195321,
+      "height": 177.62335167915913,
+      "seed": 89078365,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.014722310569417295,
+        "gap": 7.0797733208408715
+      },
+      "endBinding": {
+        "elementId": "oqtst81EgxYsg93gpu518",
+        "focus": -0.8104981713569614,
+        "gap": 7.02734375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -525.6565914195321,
+          177.62335167915913
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 734,
+      "versionNonce": 544722749,
+      "isDeleted": false,
+      "id": "6MGCQyr0Ph1xPBG1rWPz2",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 381.40496491904605,
+      "y": 19.74130560493981,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 208.45312500000003,
+      "height": 48.3205358819381,
+      "seed": 1298354643,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.0675437733810217,
+        "gap": 22.32421875
+      },
+      "endBinding": {
+        "elementId": "a8eUl8rfx4hNT2DpzR_1U",
+        "focus": -0.6644796231273884,
+        "gap": 13.427673339843722
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -208.45312500000003,
+          -48.3205358819381
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 821,
+      "versionNonce": 2070995965,
+      "isDeleted": false,
+      "id": "4qL8H9FOBf7DjK5ZcYdXm",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 477.9319027610667,
+      "y": -0.8338873119746495,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 211.23464047873938,
+      "height": 107.52300093103219,
+      "seed": 1575328413,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": 0.15475719143913147,
+        "gap": 8.8359375
+      },
+      "endBinding": {
+        "elementId": "mf_r1nc9CGXfJnfG9mdvb",
+        "focus": -0.3676124601568528,
+        "gap": 14.12109375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -211.23464047873938,
+          -107.52300093103219
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 110,
+      "versionNonce": 1168820733,
+      "isDeleted": false,
+      "id": "fs7OlTFiZjqNNlCEbUZO-",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1066.3027026622885,
+      "y": -251.50185606197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 285.39672777349733,
+      "height": 183.18934056325423,
+      "seed": 204653469,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552851030,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "4qrImBspYbKaIELpJpF5v",
+        "focus": -0.152468616025565,
+        "gap": 12.28125
+      },
+      "endBinding": {
+        "elementId": "6HWCF6mon1LW0gjGhatO4",
+        "focus": 0.6703281119255624,
+        "gap": 10.061043817456039
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          285.39672777349733,
+          -183.18934056325423
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 173,
+      "versionNonce": 688984122,
+      "isDeleted": false,
+      "id": "6HWCF6mon1LW0gjGhatO4",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1360.456936354593,
+      "y": -464.6440435619746,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 191.01986694335938,
+      "height": 25,
+      "seed": 938373203,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "fs7OlTFiZjqNNlCEbUZO-",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "next-auth and jwt ",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "next-auth and jwt ",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 336,
+      "versionNonce": 2020780134,
+      "isDeleted": false,
+      "id": "GxDY8ETwuKSkiDQtwYWpr",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 317.99871491904605,
+      "y": -631.8065435619746,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 411.9395751953125,
+      "height": 125,
+      "seed": 303331635,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "6ZQsbyfAJv3UsOA5qu-yT",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170392,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "pre established things -\ndb - mongo db(cloud based)\nui - shad cn + tailwind \nfor heavy tasks we will use an \nextenal server(most likely node or python)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "pre established things -\ndb - mongo db(cloud based)\nui - shad cn + tailwind \nfor heavy tasks we will use an \nextenal server(most likely node or python)",
+      "lineHeight": 1.25,
+      "baseline": 118
+    },
+    {
+      "type": "arrow",
+      "version": 275,
+      "versionNonce": 262438269,
+      "isDeleted": false,
+      "id": "6ZQsbyfAJv3UsOA5qu-yT",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 471.554109835684,
+      "y": -486.16982481197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 68.4074052475105,
+      "height": 490.1015625,
+      "seed": 1711723517,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "GxDY8ETwuKSkiDQtwYWpr",
+        "focus": 0.298185445317308,
+        "gap": 20.63671875
+      },
+      "endBinding": {
+        "elementId": "OlJ1Kq_r4S-GGpXJPFdc4",
+        "focus": -0.006111790631744344,
+        "gap": 4.0703125
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          68.4074052475105,
+          490.1015625
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 586,
+      "versionNonce": 2075588858,
+      "isDeleted": false,
+      "id": "jHnJRrMUlTdCNVUOjEc04",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -952.434878830954,
+      "y": -196.98232481197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 525.0195922851562,
+      "height": 225,
+      "seed": 1584148477,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "77n_NtXKbQQ_vnH5ufPuH",
+          "type": "arrow"
+        },
+        {
+          "id": "FHsy_smVkc-DfGp6g0AGs",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170393,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "these both are role based so, after login we decide \nfrom the jwt token what to serve-\n- Like for role='recruiter' we will serve them \nRecruiter Dashboard with job creation and \nmanagemnet interdace ...\n- And for role='candidate' we will serve them \na candidate portal which will have the required \nprofile creation, job search ...\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "these both are role based so, after login we decide \nfrom the jwt token what to serve-\n- Like for role='recruiter' we will serve them \nRecruiter Dashboard with job creation and \nmanagemnet interdace ...\n- And for role='candidate' we will serve them \na candidate portal which will have the required \nprofile creation, job search ...\n",
+      "lineHeight": 1.25,
+      "baseline": 218
+    },
+    {
+      "type": "arrow",
+      "version": 87,
+      "versionNonce": 695665213,
+      "isDeleted": false,
+      "id": "77n_NtXKbQQ_vnH5ufPuH",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -228.80597258095395,
+      "y": -150.88466856197465,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 177.6171875,
+      "height": 60.12109375,
+      "seed": 74452829,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "mf_r1nc9CGXfJnfG9mdvb",
+        "focus": 0.4757530020914244,
+        "gap": 15.0625
+      },
+      "endBinding": {
+        "elementId": "jHnJRrMUlTdCNVUOjEc04",
+        "focus": 0.44538222213019024,
+        "gap": 20.99212646484375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -177.6171875,
+          60.12109375
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 83,
+      "versionNonce": 511661821,
+      "isDeleted": false,
+      "id": "FHsy_smVkc-DfGp6g0AGs",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -224.47784758095395,
+      "y": 16.73251893802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 177.73046875,
+      "height": 102.18359375,
+      "seed": 1415013331,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "a8eUl8rfx4hNT2DpzR_1U",
+        "focus": -0.8425335025571471,
+        "gap": 27.40234375
+      },
+      "endBinding": {
+        "elementId": "jHnJRrMUlTdCNVUOjEc04",
+        "focus": -0.6316279789424435,
+        "gap": 25.20697021484375
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -177.73046875,
+          -102.18359375
+        ]
+      ]
+    },
+    {
+      "type": "rectangle",
+      "version": 152,
+      "versionNonce": 1602521725,
+      "isDeleted": false,
+      "id": "oqtst81EgxYsg93gpu518",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -426.30206633095395,
+      "y": 289.73251893802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 2292.58203125,
+      "height": 215.08203125,
+      "seed": 63855389,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "JX3tYadht-hxC8S0ERQle",
+          "type": "arrow"
+        },
+        {
+          "id": "fLjzS25UDAtTFDlgAR1MH",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 422,
+      "versionNonce": 2047650726,
+      "isDeleted": false,
+      "id": "mUz2xKZNz5LAcRxjDiaoH",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 463.86448335166324,
+      "y": 692.4590814380254,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 237.8878631591797,
+      "height": 60,
+      "seed": 1019141757,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "JX3tYadht-hxC8S0ERQle",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1741557170393,
+      "link": null,
+      "locked": false,
+      "fontSize": 16,
+      "fontFamily": 1,
+      "text": "common features both roles\nwhether recruiter or candiate,\nboth will have access too ",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "common features both roles\nwhether recruiter or candiate,\nboth will have access too ",
+      "lineHeight": 1.25,
+      "baseline": 54
+    },
+    {
+      "type": "arrow",
+      "version": 783,
+      "versionNonce": 1468627901,
+      "isDeleted": false,
+      "id": "JX3tYadht-hxC8S0ERQle",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 601.6829258544332,
+      "y": 508.67001893802535,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 11.472609921598064,
+      "height": 180.0238410411264,
+      "seed": 1584217725,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1741552656942,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "oqtst81EgxYsg93gpu518",
+        "focus": 0.09643797870155388,
+        "gap": 3.85546875
+      },
+      "endBinding": {
+        "elementId": "mUz2xKZNz5LAcRxjDiaoH",
+        "focus": 0.04344104585949369,
+        "gap": 3.7652214588736115
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -11.472609921598064,
+          180.0238410411264
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
